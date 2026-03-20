@@ -1,0 +1,21 @@
+{
+  "name": "tp3",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/LuchoVallejos08/tp3_Vallejos_Wolfus#readme",
+  "bugs": {
+    "url": "https://github.com/LuchoVallejos08/tp3_Vallejos_Wolfus/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuchoVallejos08/tp3_Vallejos_Wolfus.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
