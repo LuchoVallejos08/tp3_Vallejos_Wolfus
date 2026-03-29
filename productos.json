@@ -12,23 +12,11 @@
     "precio": 120000
   },
   {
-    "nombre": "Monitor",
-    "precio": 120000
+    "nombre": "Parlantes",
+    "precio": 5000
   },
   {
-    "nombre": "Monitor",
-    "precio": 120000
-  },
-  {
-    "nombre": "Monitor",
-    "precio": 120000
-  },
-  {
-    "nombre": "Monitor",
-    "precio": 120000
-  },
-  {
-    "nombre": "Monitor",
-    "precio": 120000
+    "nombre": "Auriculares",
+    "precio": 8000
   }
 ]
