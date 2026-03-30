@@ -1,6 +1,6 @@
 
 
-export function analizarTexto(texto) {
+ function analizarTexto(texto) {
     const resultado = {
         caracteres: texto.length,
         palabras: 0,
@@ -16,3 +16,4 @@ export function analizarTexto(texto) {
     return resultado;
 
 }
+export default analizarTexto;

@@ -1,6 +1,6 @@
 import { readFile, writeFile } from 'fs/promises';
 
-export async function h() {
+async function h() {
     try {
         const data = await readFile('productos.json', 'utf8');
 
@@ -19,3 +19,4 @@ export async function h() {
         console.error('Error:', error);
     }
 }
+export default h;
