@@ -14,5 +14,15 @@
 //import contador from './EJ07.js';
 //contador();
 
-import validarPassword from './EJ09.js';
-validarPassword("Abcd efg123");
+//import validarPassword from './EJ09.js';
+//validarPassword("Abcd efg123");
+
+
+import { h } from './EJ06.js';
+
+await h(); 
+
+
+import { analizarTexto } from './EJ08.js';
+
+console.log(analizarTexto("hola leo"));
